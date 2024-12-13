@@ -1,0 +1,13 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "title": "Add a new petrol station",
+                "description": "Data will be fetched from goriva.si.",
+                "data": {
+                    "petrol_station_name": "Name of a petrol station (from goriva.si)"
+                }
+            }
+        }
+    }
+}
