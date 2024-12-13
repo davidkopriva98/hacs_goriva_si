@@ -1,0 +1,11 @@
+{
+  "codeowners": ["@davidkopriva98"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/davidkopriva98/hacs_goriva_si",
+  "domain": "goriva_si",
+  "iot_class": "cloud_polling",
+  "name": "Goriva.si",
+  "requirements": [],
+  "version": "1.0.0"
+}
